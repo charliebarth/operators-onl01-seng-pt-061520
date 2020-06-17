@@ -16,5 +16,5 @@ end
 	
 unsafe?(50)
 
-not_safe?(50)
+
 
