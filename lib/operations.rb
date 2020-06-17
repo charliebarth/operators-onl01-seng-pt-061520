@@ -10,9 +10,11 @@ if speed < 40
 else
   puts "false"
   false
-  binding.pry
+  
+  
   
 end
+binding.pry
 end
 
 
