@@ -1,4 +1,4 @@
-
+speed = 50
 
 def unsafe?(speed)
   
