@@ -12,11 +12,8 @@ else
   puts "false"
   false
   
-  
-  
 end
 end
-
 
 def not_safe?(speed)
   
